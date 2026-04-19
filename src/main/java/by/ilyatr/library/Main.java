@@ -1,7 +1,7 @@
 package by.ilyatr.library;
 
 
-import by.ilyatr.library.interceptor.LoggingFilter;
+import by.ilyatr.library.filter.LoggingFilter;
 import by.ilyatr.library.resource.LibraryResource;
 import org.eclipse.jetty.ee11.servlet.ServletContextHandler;
 import org.eclipse.jetty.ee11.servlet.ServletHolder;
